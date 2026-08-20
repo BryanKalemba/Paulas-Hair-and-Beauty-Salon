@@ -24,7 +24,7 @@ The original site was a personal, voluntary project built two years earlier for 
 
 ## Tech stack
 
-Vanilla HTML, CSS, and JavaScript. No framework, no build tools, no package manager. Fonts are loaded from Google Fonts (Fraunces for display type, Inter for body/UI). Forms submit to Formspree. Images are WebP with JPEG used only for the Open Graph preview (WebP has inconsistent support in link-preview crawlers).
+Vanilla HTML, CSS, and JavaScript — no framework, no build tools, no package manager. Fonts are loaded from Google Fonts (Fraunces for display type, Inter for body/UI). Forms submit to Formspree. Images are WebP with JPEG used only for the Open Graph preview (WebP has inconsistent support in link-preview crawlers).
 
 ## Project structure
 
@@ -54,7 +54,7 @@ Vanilla HTML, CSS, and JavaScript. No framework, no build tools, no package mana
 
 ## Running locally
 
-No build step, just serve the folder:
+No build step — just serve the folder:
 
 ```bash
 python3 -m http.server 8000
